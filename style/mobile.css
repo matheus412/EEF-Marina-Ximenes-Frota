@@ -1,0 +1,129 @@
+@media (max-width:750px){
+
+    body{
+        background-color: white;
+    }
+
+    /* inicio - cabeçalho */
+
+    header{
+        height: 100px;
+    }
+
+    #logo img{
+        width: 80px;
+        margin-left: 20px;
+    }
+
+    #menu-desk{
+        display: none;
+        position: relative;
+    }
+
+
+    #menu-mobile{
+        display: block;
+        position: absolute;
+        right: 20px;
+    }
+
+    #menu-mobile img{
+        margin-top: 45px;
+    }
+
+    #menu-mobile img:hover{
+        cursor: pointer;
+    }
+
+    
+    #nav-mobile{
+        display: none;
+        position: absolute;
+        background-color: white;
+        text-align: center;
+        width: 100vw;
+        padding: 10px 0px;
+        margin-top: 100px;
+        left: 50%;
+        right: 50%;
+        transform: translate(-50%);
+    }
+
+    #nav-mobile li{
+        padding: 5px;
+        list-style: none;
+    }
+
+    #nav-mobile a{
+        position: relative;
+        color: black;
+        text-decoration: none;
+
+    }
+
+
+    /* inicio - imagem */
+
+    #foto-aluno img{
+        width: 100vw;
+    }
+
+    /* fundo de todo conteudo */
+
+    #conteudo{
+        width: 100vw;
+    }
+
+    .titulos{
+        margin-left: -20px;
+    }
+
+    /* educação */
+
+    #educacao{
+        width: 100vw;
+    }
+
+    #educacao p{
+        margin: 0px 20px;
+        width: auto;
+    }
+
+    /* premios */
+
+
+    /* acontece */
+
+    #acontece-fotos img{
+        width: 90vw;
+    }
+
+    /* creditos */
+
+    #creditos{
+        width: 100vw;
+    }
+
+}
+
+@media (max-width:320px){
+
+    /* inicio - cabeçalho */
+
+    header{
+        height: 75px;
+    }
+
+    #logo img{
+        width: 60px;
+    }
+
+    #menu-mobile img{
+        margin-top: 30px;
+    }
+
+    #nav-mobile{
+        margin-top: 75px;
+    }
+
+}

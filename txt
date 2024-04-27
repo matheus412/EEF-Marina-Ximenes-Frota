@@ -1,0 +1,26 @@
+        <div id="menu-burguer">
+            <span id="burguer" class="material-symbols-outlined">menu</span>
+            <menu id="itens"> 
+                <ul>
+                    <li><a href="#educacao">Educação</a></li>
+                    <li><a href="#resultados">Resultados</a></li>
+                    <li><a href="#ensino">Ensino</a></li>
+                    <li><a href="#colegio">Colégio</a></li>
+                    <li><a href="#acontece">Acontece no Marina</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </menu>
+        </div>
+        <div id="menu-burguer">
+            <span id="burguer" class="material-symbols-outlined">menu</span>
+            <menu id="itens"> 
+                <ul>
+                    <li><a href="#educacao">Educação</a></li>
+                    <li><a href="#resultados">Resultados</a></li>
+                    <li><a href="#ensino">Ensino</a></li>
+                    <li><a href="#colegio">Colégio</a></li>
+                    <li><a href="#acontece">Acontece no Marina</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </menu>
+        </div>
