@@ -2,6 +2,7 @@
 
     body{
         background-color: white;
+        overflow-x: hidden;
     }
 
     /* inicio - cabeçalho */
@@ -96,6 +97,17 @@
 
     #acontece-fotos img{
         width: 90vw;
+    }
+
+    /* contato */
+
+    #contato{
+        margin-left: -20px;
+    }
+
+    #icon img{
+        top: -40px;
+        right: 30px;
     }
 
     /* creditos */

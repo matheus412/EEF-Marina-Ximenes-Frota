@@ -122,7 +122,39 @@ header{
 
 /* contato */
 
+#contato{
+    background-color: #005D8E;
+    margin-top: 50px;
+    padding: 50px 0px 50px 40px;
+    border-radius: 20px 5px;
 
+}
+
+#contato h1{
+    color: white;
+    font-size: 1.2em;
+    padding-bottom: 10px;
+}
+
+#contato p{
+    color: white;
+    padding-top: 5px;
+    font-size: 0.9em;
+}
+
+#icon{
+    text-align: right;
+    padding-right: 20px;
+    position: relative;
+}
+
+#icon img{
+    position: absolute;
+    padding-top: 10px;
+    top: -40px;
+    right: 40px;
+    text-align: right;
+}
 
 /* creditos */
 
@@ -131,7 +163,7 @@ header{
     text-align: center;
     background-color: white;
     width: 700px;
-    padding: 20px 0px 5px;
+    padding: 10px 0px;
 }
 
 #creditos a{
