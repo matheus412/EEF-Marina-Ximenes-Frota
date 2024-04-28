@@ -107,7 +107,7 @@
 
     #icon img{
         top: -40px;
-        right: 30px;
+        right: 15px;
     }
 
     /* creditos */
@@ -136,6 +136,12 @@
 
     #nav-mobile{
         margin-top: 75px;
+    }
+
+    #icon img{
+        width: 40px;
+        top: -10px;
+        right: 10px;
     }
 
 }
