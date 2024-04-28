@@ -3,14 +3,17 @@
 function toggleMenu() {
     var navMobile = document.getElementById("nav-mobile");
     var menuIcon = document.getElementById("menu-mobile").getElementsByTagName("img")[0];
+    var fotoAlunoImg = document.querySelector("#foto-aluno img");
 
     if (navMobile.style.display === "block") {
         navMobile.style.display = "none";
         menuIcon.src = "imagens/icon-hamburger.svg";
+        fotoAlunoImg.style.marginTop = "0";
         
     } else {
         navMobile.style.display = "block";
         menuIcon.src = "imagens/icon-close.svg";
+        fotoAlunoImg.style.marginTop = "80px";
     }
 }
 
