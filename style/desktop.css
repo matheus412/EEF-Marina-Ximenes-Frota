@@ -100,7 +100,10 @@ header{
 
     #premios-fotos img{
         width: 400px;
-        margin-bottom: 30px;
+    }
+
+    #premios-fotos img:last-child {
+        margin-bottom: 20px; 
     }
 
     #premios-fotos h1{
