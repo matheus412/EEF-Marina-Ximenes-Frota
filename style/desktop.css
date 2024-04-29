@@ -93,8 +93,7 @@ header{
     #premios-fotos{
         text-align: center;
         background-color: #ffde59c4;
-        margin: 0px 100px;
-        border-radius: 10px;
+        border-radius: 20px 5px;
     }
 
     #premios-fotos img{
