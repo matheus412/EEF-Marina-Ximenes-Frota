@@ -17,6 +17,8 @@ function toggleMenu() {
     }
 }
 
+    /* slide  */  
+
 let imagemAtual = 0;
 const imagens = document.querySelectorAll("#acontece-fotos .imagem-container");
 const intervalo = 5000; 
