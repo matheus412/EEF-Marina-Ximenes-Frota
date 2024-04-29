@@ -100,11 +100,12 @@ header{
 
     #premios-fotos img{
         width: 400px;
-        margin-top: 20px;
+        margin-bottom: 30px;
     }
 
-    #premios-fotos p{
-        padding: 5px;
+    #premios-fotos h1{
+        padding: 15px;
+        font-size: 1em;
     }
 
 /* acontece */
