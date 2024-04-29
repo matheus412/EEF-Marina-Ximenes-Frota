@@ -92,6 +92,13 @@
 
     /* premios */
 
+    #premios-fotos{
+        margin: 0px 60px;
+    }
+
+    #premios-fotos img{
+        width: 200px;
+    }
 
     /* acontece */
 
@@ -142,6 +149,10 @@
         width: 40px;
         top: -10px;
         right: 10px;
+    }
+
+    #premios-fotos{
+        margin: 0px 40px;
     }
 
 }

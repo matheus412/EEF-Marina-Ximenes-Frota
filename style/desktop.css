@@ -90,6 +90,22 @@ header{
 
 /* prêmios */
 
+    #premios-fotos{
+        text-align: center;
+        background-color: #ffde59c4;
+        margin: 0px 100px;
+        border-radius: 10px;
+    }
+
+    #premios-fotos img{
+        width: 400px;
+        margin-top: 20px;
+    }
+
+    #premios-fotos p{
+        padding: 5px;
+    }
+
 /* acontece */
 
 #acontece-fotos{
