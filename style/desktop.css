@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #a8cf45c8;
+    background-color: #B8D941;
 
 }
 
@@ -15,7 +15,7 @@ body{
 /* Inicio-Cabeçalho */
 
 header{
-    background-color: #005D8E;
+    background-color: #2A398C;
     height: 120px;
     display: flex;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.400);
@@ -63,6 +63,7 @@ header{
 #foto-aluno img{
     width: 700px;
     margin-bottom: -5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.400);
 }
 
 /* fundo de todo conteudo */
@@ -74,7 +75,7 @@ header{
 }
 
 .titulos{
-    color: #005D8E;
+    color: #2A398C;
     font-size: 1.2em;
     padding: 50px 0px 10px 40px;
 
@@ -92,8 +93,9 @@ header{
 
     #premios-fotos{
         text-align: center;
-        background-color: #ffde59c4;
+        background-color: #F2DB66;
         border-radius: 20px 5px;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.400);
     }
 
     #premios-fotos img{
